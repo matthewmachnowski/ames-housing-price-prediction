@@ -6,8 +6,6 @@ This project analyzes a comprehensive housing dataset from Ames, Iowa, USA ([sou
 - Given a set of features, what is the expected selling price of a house?
 - Given a budget, what houses are affordable?
 
-To answer these questions, various linear regression models were fitted to the housing data to identify the most and least impactful features. The performance of the models will be evaluated using the R2 metric, which measures how well the model can explain the variance in the dataset.
-
 ### Data Dictionary
 ---
        SalePrice - the property's sale price in dollars. This is the target variable.
